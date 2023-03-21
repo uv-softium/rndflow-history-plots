@@ -1,0 +1,149 @@
+[
+  {
+    "src_id": "animation",
+    "dst_id": "animation_result",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "animation_result",
+    "dst_id": "results",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "isosurface",
+    "dst_id": "isosurface_result",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "isosurface_result",
+    "dst_id": "results",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "line",
+    "dst_id": "line_result",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "line_result",
+    "dst_id": "results",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "map",
+    "dst_id": "map_result",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "map_result",
+    "dst_id": "results",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "start",
+    "dst_id": "animation",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "start",
+    "dst_id": "isosurface",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "start",
+    "dst_id": "line",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "start",
+    "dst_id": "map",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "start",
+    "dst_id": "trisurf",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "start",
+    "dst_id": "volume",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "start",
+    "dst_id": "windrose",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "trisurf",
+    "dst_id": "trisurf_result",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "trisurf_result",
+    "dst_id": "results",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "volume",
+    "dst_id": "volume_result",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "volume_result",
+    "dst_id": "results",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "windrose",
+    "dst_id": "windrose_result",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "windrose_result",
+    "dst_id": "results",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  }
+]

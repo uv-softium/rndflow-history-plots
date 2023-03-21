@@ -1,0 +1,31 @@
+{
+  "type": "progress",
+  "config": {
+    "steps": [
+      {
+        "icon": null,
+        "node": "start",
+        "label": "Старт",
+        "description": "Исходные данные"
+      },
+      {
+        "icon": null,
+        "node": "animation",
+        "label": "Расчёт",
+        "description": "Расчёт значений"
+      },
+      {
+        "icon": null,
+        "node": "results",
+        "label": "Результат",
+        "description": "Результат расчёта"
+      }
+    ],
+    "vertical": true
+  },
+  "width": {
+    "xs": 3
+  },
+  "position": 2,
+  "help_position": "top-right"
+}

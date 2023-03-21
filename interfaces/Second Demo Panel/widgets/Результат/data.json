@@ -1,0 +1,12 @@
+{
+  "type": "nodePackages",
+  "config": {
+    "node": "results",
+    "ignoreMaster": false
+  },
+  "width": {
+    "xs": 6
+  },
+  "position": 3,
+  "help_position": "top-right"
+}

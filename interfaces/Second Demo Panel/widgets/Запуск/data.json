@@ -1,0 +1,12 @@
+{
+  "type": "uploadPackage",
+  "config": {
+    "node": "start",
+    "attach": false
+  },
+  "width": {
+    "xs": 3
+  },
+  "position": 1,
+  "help_position": "top-right"
+}
